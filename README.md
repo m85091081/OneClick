@@ -29,4 +29,4 @@ use "Redis" and "DB" you like to make yourself backend and process preview for u
 
 I'll not plan to opensources myself Hardware client / DB Broker ^_^ .
 
-If you just want copy and paste plase leave this repo.
+If you just want copy and paste please leave this repo.
